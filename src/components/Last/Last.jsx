@@ -5,7 +5,7 @@ import AppStore from '../../assets/AppStore.svg'
 function Last() {
   return (
     <div>
-      <div className="container mx-aut  pl-[120px] mb-[123p]">
+      <div className="container mx-auto  pl-[120px] mb-[123p]">
       <div className="flex items-center gap-[99px]">
           <div className="w-[516px]">
           <img src={threePhone} alt="" />
